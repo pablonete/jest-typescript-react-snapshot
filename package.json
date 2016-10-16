@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@types/jest": "^15.1.32",
+    "@types/react": "^0.14.41",
     "react": "*",
     "react-test-renderer": "^15.3.2"
   },
